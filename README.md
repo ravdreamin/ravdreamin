@@ -7,10 +7,9 @@
 
 </div>
 
----
 
 ### ⚙️ About Me
-> systemctl status ravdreamin
+>systemctl status ravdreamin
 ● active (developing)
   ├─ 🧠  Backend & DevOps Engineer
   ├─ 🐳  Automating Infra with Docker + K8s
@@ -46,7 +45,7 @@ Smart Attendance API	Event-driven attendance system	PHP • PostgreSQL
 🔄 Toolchain Timeline
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ravdreamin&theme=onedark&no-frame=true&margin-w=15&row=1" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p>
 
-> top -u ravdreamin
+ top -u ravdreamin
 PID   PROJECT           CPU%   MEM%   STATUS
 2134  infra-pilot       32.4   19.8   running 🟢
 2211  auto-deploy       21.9   11.3   building 🔵
