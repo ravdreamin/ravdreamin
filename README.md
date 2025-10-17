@@ -1,111 +1,129 @@
 <div align="center">
 
-  ██████╗ ███████╗███████╗██████╗  █████╗ ████████╗██████╗  ██████╗
-  ██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔════╝
-  ██████╔╝█████╗  █████╗  ██████╔╝███████║   ██║   ██████╔╝██║  ███╗
-  ██╔══██╗██╔══╝  ██╔══╝  ██╔══██╗██╔══██║   ██║   ██╔══██╗██║   ██║
-  ██║  ██║███████╗███████╗██║  ██║██║  ██║   ██║   ██║  ██║╚██████╔╝
-  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=RAVDREAMIN;Backend+Developer;DevOps+Engineer;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
-
-OPERATOR DOSSIER: [YOUR NAME]
-
-DESIGNATION: Principal Backend & DevOps Engineer
+```ascii
+┌──(ravdreamin@github)-[~]
+└─$ echo "Building secure, scalable systems in the shadows of code"
+> Building secure, scalable systems in the shadows of code
+```
 
 </div>
 
->  System Alert: Incoming Transmission...
+---
 
-A backend architect and infrastructure automation specialist, focused on building resilient, scalable systems in the cloud. I orchestrate complex deployments, champion Infrastructure as Code, and build the CI/CD pipelines that bridge the gap between development and operations. My mission is to ensure system integrity, optimize performance, and empower development teams with robust, automated platforms.
+## 🖥️ `$ whoami`
 
->  Comms Channels & Vitals
+```bash
+ravdreamin@dev:~$ cat /etc/profile
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+USER:      ravdreamin
+ROLE:      Backend Developer | DevOps Engineer | Security Researcher
+MISSION:   Architecting resilient infrastructure & fortifying digital perimeters
+UPTIME:    Perpetual learning mode • High availability
+STATUS:    [●] Online • Building • Securing
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-<p align="left">
-<a href="[YOUR_PORTFOLIO_URL]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-00ffc3%3Fstyle%3Dfor-the-badge%26logo%3Dko-fi%26logoColor%3D0a0f18" alt="Portfolio"/>
-</a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="mailto:[YOUR_EMAIL@example.com]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
-</a>
-</p>
+---
 
->  Core Competencies: Skill Matrix
+## 🛠️ `$ ls -la /tech_stack/`
 
-<table>
-<tr>
-<td valign="top" width="50%">
-<strong>Languages & Runtimes:</strong>
+### **🔹 Backend**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### **🔹 DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+### **🔹 Cybersecurity**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
+---
 
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> Go</code>
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python</code>
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> Rust</code>
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> Bash</code>
+## 🚀 `$ cat featured_projects.log`
 
+| **Project** | **Description** | **Stack** |
+|-------------|-----------------|-----------|
+| **🔐 SecureVault** | End-to-end encrypted password manager with zero-knowledge architecture | Go • PostgreSQL • Redis |
+| **⚡ CloudOps Pipeline** | Automated CI/CD infrastructure with self-healing capabilities | Kubernetes • Terraform • GitHub Actions |
+| **🌐 API Gateway Shield** | Rate-limiting & DDoS protection layer for microservices | Go • Nginx • Redis |
+| **🛡️ NetGuardian** | Real-time network anomaly detection system | Python • Wireshark • Grafana |
 
+---
 
-
-
-
-
-<strong>Databases & Caching:</strong>
-
-
-
-
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> PostgreSQL</code>
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /> Redis</code>
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> MongoDB</code>
-</td>
-<td valign="top" width="50%">
-<strong>Infrastructure & Cloud:</strong>
-
-
-
-
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> Docker</code>
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> Kubernetes</code>
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /> Terraform</code>
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" /> Ansible</code>
-
-
-
-
-
-
-
-<strong>Cloud Platforms & CI/CD:</strong>
-
-
-
-
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> AWS</code>
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> GCP</code>
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /> GitHub Actions</code>
-<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> GitLab CI</code>
-</td>
-</tr>
-</table>
-
->  Operator Activity & System Intel
+## 📊 `$ systemctl status stats.service`
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravdreamin&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravdreamin&theme=radical&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravdreamin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9)
+
 </div>
 
->  Homelab Monitor: [Status: NOMINAL]
+---
 
-My personal proving ground for new technologies. A bare-metal K3s cluster running various self-hosted services, monitored with Prometheus & Grafana. It serves as a lab for testing deployment strategies, container orchestration, and network configurations before they reach production environments.
+## 💻 `$ systemctl status developer.service`
 
-Cluster: 3-Node Raspberry Pi 4 K3s Cluster
+```bash
+● developer.service - Ravdreamin Development Daemon
+   Loaded: loaded (/usr/lib/systemd/system/developer.service; enabled)
+   Active: active (running) since 2020-01-01 00:00:00 UTC; 5y ago
+ Main PID: 31337 (ravdreamin)
+   Status: "Compiling dreams into reality..."
+    Tasks: 42 (limit: ∞)
+   Memory: ∞ GB (peak: during debugging)
+      CPU: 99.9% (optimizing, automating, securing)
+   CGroup: /system.slice/developer.service
+           ├─ caffeine.process      [running]
+           ├─ vim.editor            [active]
+           ├─ docker.daemon         [containerizing]
+           └─ firewall.guardian     [protecting]
 
-Core Services: Traefik, Metallb, Longhorn, Grafana, Prometheus
+Oct 17 04:20:00 ravdreamin systemd[1]: Started Developer Service
+Oct 17 04:20:01 ravdreamin process[31337]: [INFO] Coffee level: optimal
+Oct 17 04:20:02 ravdreamin process[31337]: [INFO] Threat detection: armed
+Oct 17 04:20:03 ravdreamin process[31337]: [INFO] Infrastructure: rock solid
+```
 
-Primary Use: CI/CD Runners, Git Server, Home Automation, App Prototyping
+---
 
-<p align="center">...End of Transmission</p>
+## 📡 `$ curl -X GET /contact`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravdreamin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravdreamin)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ravdreamin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravdreamin@proton.me)
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Ravdreamin/Ravdreamin/output/github-contribution-grid-snake-dark.svg)
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚙️  Built with precision  •  ☕ Powered by caffeine  •  🔒 Secured by firewalls
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
