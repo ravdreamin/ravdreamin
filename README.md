@@ -1,58 +1,111 @@
-<!-- 🌌 Ravdreamin — Backend & DevOps Engineer -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ravdreamin+%F0%9F%91%8B;Backend+%26+DevOps+Engineer;APIs+%E2%80%A2+Infra+%E2%80%A2+Automation+%E2%80%A2+Cloud" alt="Typing SVG" />
+  ██████╗ ███████╗███████╗██████╗  █████╗ ████████╗██████╗  ██████╗
+  ██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔════╝
+  ██████╔╝█████╗  █████╗  ██████╔╝███████║   ██║   ██████╔╝██║  ███╗
+  ██╔══██╗██╔══╝  ██╔══╝  ██╔══██╗██╔══██║   ██║   ██╔══██╗██║   ██║
+  ██║  ██║███████╗███████╗██║  ██║██║  ██║   ██║   ██║  ██║╚██████╔╝
+  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=header"/>
+
+OPERATOR DOSSIER: [YOUR NAME]
+
+DESIGNATION: Principal Backend & DevOps Engineer
 
 </div>
 
+>  System Alert: Incoming Transmission...
 
-### ⚙️ About Me
->systemctl status ravdreamin
-● active (developing)
-  ├─ 🧠  Backend & DevOps Engineer
-  ├─ 🐳  Automating Infra with Docker + K8s
-  ├─ 🔐  Building scalable APIs & observability tools
-  └─ 🌍  Based in Code, Deployed on Cloud
+A backend architect and infrastructure automation specialist, focused on building resilient, scalable systems in the cloud. I orchestrate complex deployments, champion Infrastructure as Code, and build the CI/CD pipelines that bridge the gap between development and operations. My mission is to ensure system integrity, optimize performance, and empower development teams with robust, automated platforms.
 
-🧩 Stack Matrix
-<p align="center"> <img src="https://skillicons.dev/icons?i=go,php,python,linux,nginx,docker,kubernetes,aws,terraform,ansible,postgres,redis,prometheus,grafana,githubactions" /> </p>
+>  Comms Channels & Vitals
 
-🧱 System Highlights
+<p align="left">
+<a href="[YOUR_PORTFOLIO_URL]" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-00ffc3%3Fstyle%3Dfor-the-badge%26logo%3Dko-fi%26logoColor%3D0a0f18" alt="Portfolio"/>
+</a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="mailto:[YOUR_EMAIL@example.com]">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+</a>
+</p>
+
+>  Core Competencies: Skill Matrix
+
+<table>
+<tr>
+<td valign="top" width="50%">
+<strong>Languages & Runtimes:</strong>
+
+
+
+
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> Go</code>
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python</code>
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> Rust</code>
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> Bash</code>
+
+
+
+
+
+
+
+<strong>Databases & Caching:</strong>
+
+
+
+
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> PostgreSQL</code>
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /> Redis</code>
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> MongoDB</code>
+</td>
+<td valign="top" width="50%">
+<strong>Infrastructure & Cloud:</strong>
+
+
+
+
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> Docker</code>
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> Kubernetes</code>
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /> Terraform</code>
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" /> Ansible</code>
+
+
+
+
+
+
+
+<strong>Cloud Platforms & CI/CD:</strong>
+
+
+
+
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> AWS</code>
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> GCP</code>
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /> GitHub Actions</code>
+<code><img width="12" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> GitLab CI</code>
+</td>
+</tr>
+</table>
+
+>  Operator Activity & System Intel
+
 <div align="center">
-🔧 Module	🚀 Description	🧠 Core Tech
-InfraPilot	Multi-cloud provisioning & monitoring system	Go • Terraform • AWS
-AutoDeploy	Zero-downtime CI/CD pipeline generator	Docker • GitHub Actions • Nginx
-LogForge	CLI tool for live log parsing & metrics	Go • Prometheus
-Smart Attendance API	Event-driven attendance system	PHP • PostgreSQL
+
 </div>
 
-📡 My DevOps Graph
-<div align="center">
-</div>
+>  Homelab Monitor: [Status: NOMINAL]
 
-🧮 Stats Overview
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ravdreamin&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravdreamin&theme=react&hide_border=true&background=0D1117&ring=00E8FF&fire=00C3FF" height="160" /> </div>
+My personal proving ground for new technologies. A bare-metal K3s cluster running various self-hosted services, monitored with Prometheus & Grafana. It serves as a lab for testing deployment strategies, container orchestration, and network configurations before they reach production environments.
 
-🧠 Philosophy
-<div align="center">
-“Infrastructure is poetry in YAML.”
-“Logs are stories systems tell when no one listens.”
-“Every backend deserves observability.”
-</div>
+Cluster: 3-Node Raspberry Pi 4 K3s Cluster
 
-🔄 Toolchain Timeline
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ravdreamin&theme=onedark&no-frame=true&margin-w=15&row=1" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p>
+Core Services: Traefik, Metallb, Longhorn, Grafana, Prometheus
 
- top -u ravdreamin
-PID   PROJECT           CPU%   MEM%   STATUS
-2134  infra-pilot       32.4   19.8   running 🟢
-2211  auto-deploy       21.9   11.3   building 🔵
-1988  logforge          12.6   9.4    refactoring 🟠
-1907  side-projects     8.3    4.1    dreaming 💭
+Primary Use: CI/CD Runners, Git Server, Home Automation, App Prototyping
 
-🌐 Connect
-<p align="center"> <a href="https://linkedin.com/in/ravdreamin"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a> <a href="https://x.com/ravdreamin"><img src="https://skillicons.dev/icons?i=twitter" height="35"/></a> <a href="mailto:ravdreamin@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a> </p>
-
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer"/> </div> ```
+<p align="center">...End of Transmission</p>
