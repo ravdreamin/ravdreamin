@@ -1,88 +1,60 @@
-<!-- 🎯 Modern Backend + DevOps GitHub Profile -->
+<!-- 🌌 Ravdreamin — Backend & DevOps Engineer -->
+<div align="center">
 
-<h1 align="center">
-  ⚙️ Hey, I'm <a href="#">Ravdreamin</a> 👋
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ravdreamin+%F0%9F%91%8B;Backend+%26+DevOps+Engineer;APIs+%E2%80%A2+Infra+%E2%80%A2+Automation+%E2%80%A2+Cloud" alt="Typing SVG" />
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=00E8FF&center=true&vCenter=true&width=550&lines=Backend+%26+DevOps+Engineer;Building+Scalable+APIs+and+Systems;Automating+Everything+with+CI%2FCD;Turning+Infrastructure+into+Code" alt="Typing SVG" />
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=header"/>
 
----
-
-### 🧠 About Me
-- 🧩 Backend + DevOps developer obsessed with **efficiency, reliability, and automation**  
-- 🛠 I design **microservices**, build APIs, and deploy using **Docker + Kubernetes**  
-- ☁️ Passionate about **infrastructure as code** (IaC) and **observability**  
-- 🧭 I believe *backend = logic + flow + resilience*
+</div>
 
 ---
 
-### 🧰 Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,python,linux,nginx,docker,kubernetes,aws,terraform,ansible,postgres,redis,githubactions" />
-</p>
+### ⚙️ About Me
+```bash
+> systemctl status ravdreamin
+● active (developing)
+  ├─ 🧠  Backend & DevOps Engineer
+  ├─ 🐳  Automating Infra with Docker + K8s
+  ├─ 🔐  Building scalable APIs & observability tools
+  └─ 🌍  Based in Code, Deployed on Cloud
 
----
+🧩 Stack Matrix
+<p align="center"> <img src="https://skillicons.dev/icons?i=go,php,python,linux,nginx,docker,kubernetes,aws,terraform,ansible,postgres,redis,prometheus,grafana,githubactions" /> </p>
 
-### 🚀 Current Focus
-> Crafting **a unified monitoring and alerting system** with Prometheus + Grafana, and automating CI/CD pipelines.
+🧱 System Highlights
+<div align="center">
+🔧 Module	🚀 Description	🧠 Core Tech
+InfraPilot	Multi-cloud provisioning & monitoring system	Go • Terraform • AWS
+AutoDeploy	Zero-downtime CI/CD pipeline generator	Docker • GitHub Actions • Nginx
+LogForge	CLI tool for live log parsing & metrics	Go • Prometheus
+Smart Attendance API	Event-driven attendance system	PHP • PostgreSQL
+</div>
 
----
+📡 My DevOps Graph
+<div align="center">
+</div>
 
-### 🧩 Featured Projects
+🧮 Stats Overview
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ravdreamin&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E8FF&icon_color=00E8FF" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravdreamin&theme=react&hide_border=true&background=0D1117&ring=00E8FF&fire=00C3FF" height="160" /> </div>
 
-| ⚙️ Project | 🧾 Description | 🛠️ Stack |
-|-------------|----------------|-----------|
-| 🧠 **InfraPilot** | IaC tool that provisions and monitors infra across clouds | Go, Terraform, AWS |
-| 🚀 **Smart Attendance API** | API-first attendance system with JWT Auth + PostgreSQL | PHP, PostgreSQL |
-| 📦 **LogCLI** | CLI tool for parsing & visualizing logs | Go, Bash |
-| 🔄 **AutoDeploy** | GitHub Actions workflow for zero-downtime deploys | YAML, Docker, Nginx |
+🧠 Philosophy
+<div align="center">
+“Infrastructure is poetry in YAML.”
+“Logs are stories systems tell when no one listens.”
+“Every backend deserves observability.”
+</div>
 
----
+🔄 Toolchain Timeline
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ravdreamin&theme=onedark&no-frame=true&margin-w=15&row=1" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p>
 
-### 📊 Stats Dashboard
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravdreamin&show_icons=true&theme=tokyonight&hide_border=true" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravdreamin&theme=tokyonight&hide_border=true" height="160">
-</p>
+> top -u ravdreamin
+PID   PROJECT           CPU%   MEM%   STATUS
+2134  infra-pilot       32.4   19.8   running 🟢
+2211  auto-deploy       21.9   11.3   building 🔵
+1988  logforge          12.6   9.4    refactoring 🟠
+1907  side-projects     8.3    4.1    dreaming 💭
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravdreamin&layout=compact&theme=tokyonight&hide_border=true" height="160">
-</p>
+🌐 Connect
+<p align="center"> <a href="https://linkedin.com/in/ravdreamin"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a> <a href="https://x.com/ravdreamin"><img src="https://skillicons.dev/icons?i=twitter" height="35"/></a> <a href="mailto:ravdreamin@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a> </p>
 
----
-
-### 🔄 Automation Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravdreamin&bg_color=0D1117&color=00E8FF&line=0077FF&point=00E8FF&area=true&hide_border=true" />
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravdreamin&theme=darkhub&no-frame=true&margin-w=15&row=1" />
-</p>
-
----
-
-### 💬 Philosophy
-> “Automation isn’t about replacing humans — it’s about freeing them to create.”
-
-> “If it’s not versioned, it doesn’t exist.”
-
----
-
-### 🌐 Connect
-<p align="center">
-  <a href="https://linkedin.com/in/ravdreamin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:ravdreamin@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://twitter.com/ravdreamin"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer"/> </div> ```
