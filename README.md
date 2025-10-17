@@ -10,7 +10,6 @@
 ---
 
 ### ⚙️ About Me
-```bash
 > systemctl status ravdreamin
 ● active (developing)
   ├─ 🧠  Backend & DevOps Engineer
